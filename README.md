@@ -1,5 +1,5 @@
 # DataRoamers
 
-## Requirements for NO2 Analysis:
-Python3, Numpy, Matplotlib, BaseMap,NetCD4
-
+## NO2 Analysis:
+ Requirements: Python3, Numpy, Matplotlib, BaseMap,NetCD4
+ Data Source: NO2 data is extracted from the Level 2 Sentinel 5P data accessed from https://s5phub.copernicus.eu/dhus/
